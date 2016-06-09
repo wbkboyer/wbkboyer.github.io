@@ -1,4 +1,3 @@
 name: LoCoMath - A love story 
 markdown: kramdown 
-pygments: true
-
+highlighter: pygments
